@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on PHP/C#/SQL/AWS
-- 🌱 I’m currently learning Unity/Azure
+- 🌱 I’m currently learning Unity/Azure/GCP
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Eat, Drink, Games & Rabbit
 <!--
